@@ -1,1 +1,3 @@
-# Website-
+# Website-You now have the complete, latest `store.html`, with the 3D effects, animations and free call booking. It's a single file with all the code inside, so you own it and can edit, host or share it however you like.
+
+I can't change the sharing settings myself. To give other people access to the live page, use the share option on its publish card (https://claude.ai/artifact/H1tTFwxct6Vj16wAihK4De) to get a link. To put it on your own address, upload `store.html` to a free host like Netlify Drop or Cloudflare Pages, as I described earlier.
